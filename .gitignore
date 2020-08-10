@@ -1,0 +1,12 @@
+.bloop
+.idea
+.vscode
+.metals
+
+# SBT artifacts
+target
+project/metals.sbt
+
+# semmle QL object code
+*.qlo
+
